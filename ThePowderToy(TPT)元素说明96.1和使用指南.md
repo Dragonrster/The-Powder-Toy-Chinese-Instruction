@@ -14,7 +14,7 @@
 > **感谢 **@**Ike** 撰写的《TPT元素说明91.5 Snapshot54》本文是基于《TPT元素说明91.5 Snapshot54》部分重写并重新排版
 > **感谢 ** 物理沙盘实验室(99309202)的群友们对本文错误指正
 > 如果发现错误可以发送邮件到：dragonrster@gmail.com  2380723764@qq.com
-> ![image.png](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653443895577-f7d72a27-76f2-4b38-a55b-87b63e39a72b.png#clientId=uda84dac5-be9e-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=61&id=QFpnN&name=image.png&originHeight=409&originWidth=1000&originalType=binary&ratio=1&rotation=0&showTitle=false&size=61113&status=done&style=none&taskId=u81717105-d460-44d1-bc67-9b1ddaafd10&title=&width=149)
+> Dragonrster
 > 2021.7.28
 
 
