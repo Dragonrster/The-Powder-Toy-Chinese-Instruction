@@ -126,6 +126,7 @@ Worldwire线(WWLD)：改变其状态(头、尾、空)。
 **允许：** 没有
 **特殊：** 能传导SPRK(电脉冲)。
 **示例：** 
+
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397062020-ba94d454-4ba9-418a-bb1b-ca3994d7d98e.png#crop=0&crop=0&crop=1&crop=1&id=Qyvem&originHeight=70&originWidth=109&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397062519-dc78c326-44e3-402b-a751-ab87ad15e7a0.png#crop=0&crop=0&crop=1&crop=1&id=Gaow0&originHeight=70&originWidth=109&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397062919-25e1f8a4-c198-4ec4-b091-c3df87de1814.png#crop=0&crop=0&crop=1&crop=1&id=Qjaef&originHeight=70&originWidth=109&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397063222-3163a780-7dd9-49e1-b463-9df5e8605c1e.png#crop=0&crop=0&crop=1&crop=1&id=IYdDy&originHeight=70&originWidth=109&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397063586-d2c4cccc-e4bf-40b8-b001-9a515ea920aa.png#crop=0&crop=0&crop=1&crop=1&id=KPfOf&originHeight=70&originWidth=109&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 ###### ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397063968-e215faf3-137f-4c0b-95e2-37484067a38a.png#crop=0&crop=0&crop=1&crop=1&id=jj11T&originHeight=18&originWidth=30&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)电控墙【E-wall】
@@ -134,6 +135,7 @@ Worldwire线(WWLD)：改变其状态(头、尾、空)。
 **允许：** 没有，除非通电。
 **特殊：** 未通电时性质类似墙(不可导电)，通电时类似导体。
 **示例：** 
+
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397064242-56ac6a26-9e25-4c94-b0b3-2038365a7cd1.png#crop=0&crop=0&crop=1&crop=1&id=c9XXa&originHeight=187&originWidth=243&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397064592-e17e4d13-b02c-4aac-9359-0ebf0954052e.png#crop=0&crop=0&crop=1&crop=1&id=B36To&originHeight=187&originWidth=243&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397064832-98ec1941-4c48-4114-bfe0-acbedc776428.png#crop=0&crop=0&crop=1&crop=1&id=IRmyw&originHeight=187&originWidth=243&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 ###### ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397065104-aca1a6bc-3cf4-4ec8-ad8b-cfb01a639308.png#crop=0&crop=0&crop=1&crop=1&id=GlExN&originHeight=18&originWidth=30&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)检测器【Detector】
@@ -142,6 +144,7 @@ Worldwire线(WWLD)：改变其状态(头、尾、空)。
 **允许：** 一切
 **特殊：：** 内部有物质时向周围的导体发出电脉冲。激活时，发出橙色光。
 **示例：** 
+
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397065373-401b6606-246a-4bcb-b4a0-53218b9e5604.png#crop=0&crop=0&crop=1&crop=1&id=qE5Sq&originHeight=141&originWidth=155&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397065630-88165085-211c-4fcc-a285-3ee632962e9c.png#crop=0&crop=0&crop=1&crop=1&id=DVPoH&originHeight=141&originWidth=155&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397065892-e2999e68-05cf-4ac8-b4f7-f4619c93a679.png#crop=0&crop=0&crop=1&crop=1&id=KMZmM&originHeight=141&originWidth=155&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397066292-e196d88c-0d0d-47b3-8261-ffb1b0e1d8d3.png#crop=0&crop=0&crop=1&crop=1&id=d5s4b&originHeight=141&originWidth=155&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 ###### 风向计【Streamline】
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397066743-e20f11f9-1279-4250-a64a-a1903e87575c.png#crop=0&crop=0&crop=1&crop=1&id=jE85k&originHeight=18&originWidth=30&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
@@ -150,6 +153,7 @@ Worldwire线(WWLD)：改变其状态(头、尾、空)。
 **允许：** 一切
 **特殊：** 显示周围压力的运动方向。与其他墙不同，笔刷的大小不会产生影响。
 **示例：** 
+
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397067085-68d71e9b-ea77-4720-ba11-ab57c913bff8.png#crop=0&crop=0&crop=1&crop=1&height=198&id=xmQDq&originHeight=330&originWidth=499&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=&width=300)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397067359-fb664309-fbf1-4493-b205-1378ea499519.png#crop=0&crop=0&crop=1&crop=1&height=198&id=qXKTV&originHeight=330&originWidth=499&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=&width=299)	
 
 ###### 风扇【Fan】
@@ -161,6 +165,7 @@ Worldwire线(WWLD)：改变其状态(头、尾、空)。
 风扇给予火柴人产生气流的能力，就像它是个普通物质一样它的头会变为淡蓝色，会被任何其他它所碰到的物体替代。
 **使用方法：** 设置风扇的位置，不要选择其他的元素，按住shift，鼠标(左键)按住你设置好的风扇，拖动鼠标，直线的方向(风扇到光标位置)和长度即为气流的方向和强度。
 **示例：** 
+
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397067972-229e127c-9c90-4a4a-a9b0-9677536bf2f7.png#crop=0&crop=0&crop=1&crop=1&height=263&id=TPUWF&originHeight=463&originWidth=645&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=&width=366)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397068266-f922397b-7729-49ee-b91e-70a7ac4c6b84.png#crop=0&crop=0&crop=1&crop=1&height=261&id=YMClv&originHeight=463&originWidth=645&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=&width=364)
 
 ###### ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397068834-2c169852-9c9d-4ba3-9a23-90a0b1dafb02.png#crop=0&crop=0&crop=1&crop=1&id=htcrR&originHeight=18&originWidth=30&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)液体墙【LiquidPermeable】
@@ -169,6 +174,7 @@ Worldwire线(WWLD)：改变其状态(头、尾、空)。
 **允许：** 液体和压力
 **特殊：：** 向周围任何导体传播电脉冲。
 **示例：** 
+
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397069138-ab58baf4-92ae-46c4-b3f7-cae6f61c0421.png#crop=0&crop=0&crop=1&crop=1&id=iexLh&originHeight=156&originWidth=140&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397069425-bcea54bb-1a64-4b3a-985b-5fe7c551fa43.png#crop=0&crop=0&crop=1&crop=1&id=AzIjB&originHeight=156&originWidth=140&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397069833-f9673ea9-2167-4d9f-8b05-9ffa29d4e05d.png#crop=0&crop=0&crop=1&crop=1&id=qEPhP&originHeight=156&originWidth=140&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397070279-e2f21c38-3501-4845-9aae-8604eae0e3c9.png#crop=0&crop=0&crop=1&crop=1&id=st5gl&originHeight=156&originWidth=140&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 ###### ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397070830-bee8d8d9-5a3f-491c-b78d-e1e70451d222.png#crop=0&crop=0&crop=1&crop=1&id=Bep0i&originHeight=18&originWidth=30&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)吸收墙【AbsorbingWall】
@@ -177,6 +183,7 @@ Worldwire线(WWLD)：改变其状态(头、尾、空)。
 **允许：** 压力
 **特殊：** 吸收所有进入的物质但是，如果物质的速度足够快(具体未知)，且穿过吸收墙的密度较小，物质能顺利通过。
 **示例：** 
+
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397071112-fb352368-6573-4dd7-a560-d4e4504ebf31.png#crop=0&crop=0&crop=1&crop=1&id=YcOf5&originHeight=157&originWidth=372&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397071364-e9bba07b-5c65-42d5-9adb-3d57586fcba5.png#crop=0&crop=0&crop=1&crop=1&id=N1nka&originHeight=157&originWidth=372&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397071931-c51ff34b-0f2e-457b-9cdc-bfafe0596e6f.png#crop=0&crop=0&crop=1&crop=1&id=c61Ui&originHeight=157&originWidth=372&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 ###### ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397072324-5c719b82-ae6d-45d6-9141-58c85141f5db.png#crop=0&crop=0&crop=1&crop=1&id=RpL2r&originHeight=18&originWidth=30&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)墙【Wall】
@@ -263,6 +270,7 @@ Worldwire线(WWLD)：改变其状态(头、尾、空)。
 **描述：** "静止其内所有物质，除非通电。"
 阻止其内物质移动和变化。I如果其他导电的墙向静止墙发出电脉冲，静止效果将失效，物质将继续移动和变化。(电脉冲消失后恢复静止效果)
 **示例：** 
+
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397080367-f94cb4ff-465e-4b79-9012-f63dc01c2e31.png#crop=0&crop=0&crop=1&crop=1&id=v45Bf&originHeight=424&originWidth=629&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397080729-b9f61d20-8473-4123-8431-c75fc1d44088.png#crop=0&crop=0&crop=1&crop=1&id=jzLkl&originHeight=424&originWidth=629&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
@@ -284,6 +292,7 @@ Worldwire线(WWLD)：改变其状态(头、尾、空)。
 **初始温度：** 22℃/295.15k
 **导热率：** 251
 **示例：** 
+
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397083045-327205d8-78f4-4568-8f9a-8a44409614df.png#crop=0&crop=0&crop=1&crop=1&id=gzs6O&originHeight=57&originWidth=174&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397083507-8b7eadd6-0867-4513-b0b4-683c4fa6b3df.png#crop=0&crop=0&crop=1&crop=1&id=X0dOp&originHeight=57&originWidth=174&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397083952-234e5b89-b211-4ef4-a0b4-fb873c098ae8.png#crop=0&crop=0&crop=1&crop=1&id=a5Q46&originHeight=57&originWidth=174&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 SPRK是在以下情况下创建的：
 ![](https://cdn.nlark.com/yuque/0/2022/png/22012109/1653397084171-b7790248-48bb-4a5d-b454-95de37c04603.png#crop=0&crop=0&crop=1&crop=1&id=eEkAt&originHeight=137&originWidth=80&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
