@@ -1,4 +1,4 @@
-# The-Powder-Toy-V96
+# The-Powder-Toy-V97
 The Powder Toy 元素说明, 中文版
 #### 中国TPT玩家交流群： 【沙盘实验室】：99309202 
 
@@ -9,7 +9,7 @@ The Powder Toy 元素说明, 中文版
 > The Powder Toy is a free physics sandbox game, which simulates air pressure and velocity, heat, gravity and a countless number of interactions between different substances! The game provides you with various building materials, liquids, gases and electronic components which can be used to construct complex machines, guns, bombs, realistic terrains and almost anything else. You can then mine them and watch cool explosions, add intricate wirings, play with little stickmen or operate your machine. You can browse and play thousands of different saves made by the community or upload your own – we welcome your creations!
 
 
-本篇元素说明是基于Ike 的《TPT元素说明91.5 Snapshot54》和官方WIKI重新修订、排版并整理，当前版本为Version 96.2。<p/>
+本篇元素说明是基于Ike 的《TPT元素说明91.5 Snapshot54》和官方WIKI重新修订、排版并整理，当前版本为Version 97。<p/>
 修改了之前版本遗留的大量错误，并对LIFT电路相关的元素展开了详细的说明和具体操作指南。 新增了元素导热速度表。 <p/>
 感谢 @Ike 撰写的《TPT元素说明91.5 Snapshot54》本文是基于《TPT元素说明91.5 Snapshot54》部分重写并重新排版 <p/>
 感谢 物理沙盘实验室(99309202)的群友们对本文错误指正<p/>
