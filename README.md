@@ -6,12 +6,12 @@
 
 ## 快速开始
 
-- **首次使用？** 从 [index.md](index.md) 开始——含参数速查和完整目录
-- **找某个元素？** 打开 [appendix-L-完整元素索引.md](appendix-L-完整元素索引.md) 按字母查找
-- **想学电路？** 读 [appendix-G-电路构建指南.md](appendix-G-电路构建指南.md) 入门，[appendix-Q-Subframe子帧技术.md](appendix-Q-Subframe子帧技术.md) 进阶
-- **想学 Lua？** [appendix-R-Lua脚本入门指南.md](appendix-R-Lua脚本入门指南.md) 零基础开始
-- **想建反应堆？** [appendix-S-核反应堆构建指南.md](appendix-S-核反应堆构建指南.md)
-- **想造计算机？** [appendix-T-计算机构建指南.md](appendix-T-计算机构建指南.md)
+- **首次使用** 从 [index.md](index.md) 开始——含参数速查和完整目录
+- **元素** 打开 [appendix-L-完整元素索引.md](appendix-L-完整元素索引.md) 按字母查找
+- **电路** 读 [appendix-G-电路构建指南.md](appendix-G-电路构建指南.md) 入门，[appendix-Q-Subframe子帧技术.md](appendix-Q-Subframe子帧技术.md) 进阶
+- **Lua** [appendix-R-Lua脚本入门指南.md](appendix-R-Lua脚本入门指南.md) 零基础开始
+- **反应堆** [appendix-S-核反应堆构建指南.md](appendix-S-核反应堆构建指南.md)
+- **计算机** [appendix-T-计算机构建指南.md](appendix-T-计算机构建指南.md)
 
 ## 文档结构
 
@@ -111,4 +111,4 @@
 
 - [The-Powder-Toy-Chinese](https://github.com/Dragonrster/The-Powder-Toy-Chinese) — 游戏源码
 - [官方 Wiki (英文)](https://powdertoy.co.uk/Wiki.html)
-- [TPT 元素说明 Wiki.js 版](https://github.com/Dragonrster/Wikijs/tree/main/TPTWIKI)
+
